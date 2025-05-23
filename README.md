@@ -20,20 +20,6 @@ This project aims to analyze business sales data and provide actionable insights
 
 ---
 
-## 📂 Folder Structure
-
-📁 Business-Sales-Analysis
-│
-├── 📄 data.sql # SQL scripts for data extraction
-├── 📊 SalesData.xlsx # Cleaned and preprocessed Excel sheet
-├── 📁 PowerBI Dashboard.pbix # Power BI dashboard file
-├── 📸 screenshots/ # Dashboard and chart screenshots
-└── 📄 README.md # Project documentation
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🧠 Key Insights
@@ -49,17 +35,7 @@ Edit
 
 ### 🔷 Power BI Dashboard Overview
 
-![Dashboard Overview](./screenshots/dashboard-overview.png)
-
-### 🔷 Monthly Sales Trend
-
-![Monthly Sales](./screenshots/monthly-sales.png)
-
-### 🔷 Top Products by Revenue
-
-![Top Products](./screenshots/top-products.png)
-
-> 💡 *Replace the image paths with actual screenshots stored in the `screenshots/` folder of your repo.*
+![Dashboard Overview](sales_overview.png)
 
 ---
 
@@ -73,24 +49,19 @@ Import the SQL file into your database and run queries to extract data.
 Open SalesData.xlsx in Excel to review cleaned data and KPIs.
 
 Open PowerBI Dashboard.pbix in Power BI Desktop to explore the dashboard.
+---
 
 📬 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-💼 GitHub: your-username
+💼 GitHub: Riznxz
 
-📧 Email: your.email@example.com
+📧 Email: riznxz@example.com
 
 ⭐️ Show Your Support
 If you like this project, please ⭐️ the repo to support the work!
 
-yaml
-Copy
-Edit
 
----
-
-Would you like me to help you create sample screenshots or add GitHub Pages to showcase a live view?
 
 
 
