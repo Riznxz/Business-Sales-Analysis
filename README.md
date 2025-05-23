@@ -49,9 +49,9 @@ Import the SQL file into your database and run queries to extract data.
 Open SalesData.xlsx in Excel to review cleaned data and KPIs.
 
 Open PowerBI Dashboard.pbix in Power BI Desktop to explore the dashboard.
----
 
 📬 Contact
+---
 If you have any questions or suggestions, feel free to reach out:
 
 💼 GitHub: Riznxz
