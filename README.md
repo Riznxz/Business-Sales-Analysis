@@ -43,7 +43,7 @@ This project aims to analyze business sales data and provide actionable insights
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/business-sales-analysis.git
+   git clone https://github.com/Riznxz/business-sales-analysis.git
 Import the SQL file into your database and run queries to extract data.
 
 Open SalesData.xlsx in Excel to review cleaned data and KPIs.
